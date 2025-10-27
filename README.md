@@ -2,7 +2,7 @@
 ````markdown
 # AI Code Review Assistant
 
-This is a small Streamlit app that uses OpenAI’s API to review code.  
+This is an app that uses OpenAI’s API to review code.  
 You can paste your code into the app, and it gives suggestions or feedback to help improve it.
 
 Live app: [https://ai-code-review-dutiaqljkwjpxdwalxjafo.streamlit.app/]
